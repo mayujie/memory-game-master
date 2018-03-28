@@ -31,8 +31,8 @@ To get started, open `js/app.js` and start building out the app's functionality
 For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
 
 ## Installation
-For online play :
-For offline play clone or download from :
+For online play : https://cdn.rawgit.com/mayujie/memory-game-master/d68ad85c/index.html
+For offline play clone or download from : https://github.com/mayujie/memory-game-master
 File location:
 index.html
 css folder :	app.css
