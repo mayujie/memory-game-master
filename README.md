@@ -33,9 +33,9 @@ For specific, detailed instructions, look at the project instructions in the [Ud
 ## Installation
 - For online play : https://cdn.rawgit.com/mayujie/memory-game-master/d68ad85c/index.html
 - For offline play clone or download from : https://github.com/mayujie/memory-game-master
-File location:
 
-index.html
+* File location:
+- index.html
 - css folder :	app.css
 - js folder :		app.js
 - img folder:		geometry2.png
