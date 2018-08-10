@@ -2,6 +2,7 @@
 The third project from FEND of Udacity, memory game which matching the card
 # Memory Game Project
 Ma Yujie 03-29-2018
+[Play Game Online](https://mayujie.github.io/memory-game-master/).
 ## Table of Contents
 * [Summary](#Summary)
 * [Instructions](#instructions)
